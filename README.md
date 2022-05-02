@@ -1,6 +1,6 @@
 .# Sobre mim
-- 👋 Ola meu nome é @vinicius1206
-- :+1:Meu email de contato é viana.vinicius@escola.pr.gov.br
+- 👋 Ola meu nome é **@vinicius1206**
+- :+1:Meu email de contato é [email](viana.vinicius@escola.pr.gov.br)
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 
